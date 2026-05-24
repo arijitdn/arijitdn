@@ -7,8 +7,8 @@ Full Stack Developer and Student
 Hey there, Arijit this side, I am an undergrad student currently pursuing B.Tech in Computer Science and Engineering. I am proficient in Full Stack development and currently learning Web3.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [arijit.dev](https://arijit.dev)
-* ✉️  You can contact me at [contact@arijit.dev](mailto:contact@arijit.dev)
+* 🖥️  See my portfolio at [arijit.xlbs.in](https://arijit.xlbs.in)
+* ✉️  You can contact me at [hello@xlbs.in](mailto:hello@xlbs.in)
 * 🧠  Full Stack Developer (Next.js, Typescript, Tailwind CSS, Shadcn UI)
 * 🤝  Learning Web3 development with Solidity and Solana
 * ⚡  I create bugs in code
